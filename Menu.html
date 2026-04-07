@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1><b>Menu Exercícios</b></h1>
+
+    <ul>
+        <li><a href="Curriculo.html">Currículo</a></li>
+        <li><a href="Mural de caes.html">Mural de cães</a></li>
+        <li><a href="Tabela de cursos.html">Cursos</a></li>
+        <li><a href="Cadastro de cliente.html">Cadastro</a></li>
+    </ul>
+</body>
+</html>
